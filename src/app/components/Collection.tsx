@@ -1,4 +1,3 @@
-import Link from "next/link";
 export default function Collection() {
     return (
       <section id="collection" className="py-16 bg-gray-100 text-center">
