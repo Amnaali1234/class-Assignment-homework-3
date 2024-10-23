@@ -7,7 +7,9 @@ export default function Hero() {
 <div className="text-center text-white">
     <h1 className="text-5xl font-bold mb-4">Discover Luxury Timepieces</h1>
     <p className="text-lg mb-6">Precision, Style, and Elegance</p>
-    <Link href="/collection" className="bg-blue-500 text-black py-2 px-4 rounded">View collection</Link>
+    
+    <li><Link href="/collection" className="bg-blue-500 text-black py-2 px-4 rounded">View collection</Link></li>
+    
     
 
     </div>
